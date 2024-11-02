@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/BTS Sio/BDD/MCD- Cours JSDimpre.md",
+                "file": "Cours/BTS Sio/BDD/MCD- Formes normales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCD- Cours JSDimpre"
+              "title": "MCD- Formes normales"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/BTS Sio/BDD/MCD- Cours JSDimpre.md",
+                "file": "Cours/BTS Sio/BDD/MCD- Formes normales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour MCD- Cours JSDimpre"
+              "title": "Rétrolien pour MCD- Formes normales"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/BTS Sio/BDD/MCD- Cours JSDimpre.md",
+                "file": "Cours/BTS Sio/BDD/MCD- Formes normales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de MCD- Cours JSDimpre"
+              "title": "Liens sortants de MCD- Formes normales"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/BTS Sio/BDD/MCD- Cours JSDimpre.md"
+                "file": "Cours/BTS Sio/BDD/MCD- Formes normales.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de MCD- Cours JSDimpre"
+              "title": "Plan de MCD- Formes normales"
             }
           },
           {
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +176,7 @@
   "active": "437d20259d0f5b45",
   "lastOpenFiles": [
     "Cours/BTS Sio/BDD/MCD- Cours JSDimpre.md",
+    "Cours/BTS Sio/BDD/MCD- Formes normales.md",
     "^entités.md",
     "Cours/BTS Sio/JAVA/Definitions.md",
     "Cours/BTS Sio/BDD",
