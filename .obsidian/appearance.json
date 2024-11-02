@@ -1,4 +1,6 @@
 {
-  "translucency": true,
-  "cssTheme": "GitHub Theme"
+  "translucency": false,
+  "cssTheme": "GitHub Theme",
+  "baseFontSizeAction": true,
+  "baseFontSize": 18
 }
