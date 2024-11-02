@@ -53,7 +53,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a8aed1c934b12f5",
+  "active": "9e7e2ed7ffcd71d9",
   "lastOpenFiles": [
     "Sans titre.md",
     "README.md",
