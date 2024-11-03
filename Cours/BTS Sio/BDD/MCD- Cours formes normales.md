@@ -8,7 +8,7 @@
 ---
 > Pour qu'une relation soit en première forme normale elle doit respecter les conditions suivantes : 
 > 
-> --> **Avoir une clef primaire**
+> --> **Avoir une [[#clé primaire]]**
 > --> **Etre constitué de valeur atomiques**
 > --> **Ne pas contenir d'attributs ou d'ensembles d'attributs qui soint des collection de la valeurs**
 > 

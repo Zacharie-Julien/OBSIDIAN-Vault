@@ -61,15 +61,15 @@
 
 >En MCD, **l’héritage** représente une relation entre une **entité mère** et une ou plusieurs **entités filles**, qui héritent des **[[#Attribut]]** et des **[[#Association]]** de l’entité mère. Cela permet de modéliser une hiérarchie de concepts où les entités filles partagent des caractéristiques communes tout en ajoutant leurs propres spécificités. 
 
-### Exclusion : 
+### Exclusion (X) : 
 ---
 >Une contrainte d’exclusion, placée entre deux associations, signifie qu’on ne puisse pas participer aux deux relations à la fois (l’un, l’autre ou aucune).
 > 
-### Totalité
+### Totalité (T) :
 ---
 >Une contrainte de totalité, signifie qu’on doit absolument participer à l’une ou l’autre des deux associations (l’une, l’autre ou les deux).
 >
-### Partition
+### Partition (XT) :
 ---
 >Une contrainte de partition, placée entre deux associations, signifie qu’on ne puisse ni participer aux deux relations à la fois ni à participer à aucune (l’une, l’autre).
 > 

@@ -12,7 +12,7 @@
 > 
 
 
-> [!NOTE] Les 4 principes fondamentaux de l'objet
+> [!important] Les 4 principes fondamentaux de l'objet
 > **[[#Instanciation]]**
 > **[[#Encapsulation]]**
 > **[[#Polymorphisme]]**
