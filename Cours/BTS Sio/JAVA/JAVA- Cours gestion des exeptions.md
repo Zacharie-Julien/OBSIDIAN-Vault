@@ -5,7 +5,7 @@
 > En Java, un **thread** (ou **fil d’exécution**) est la plus petite unité d’exécution traitée indépendamment par le système d’exploitation. Il représente une séquence d’instructions pouvant être exécutée en parallèle d’autres threads, permettant l’exécution concurrente de tâches dans une application.
 
 
-### Les éxeptions : 
+### Les exeptions : 
 ---
 >En Java, une **exception** est un événement indésirable qui se produit durant l’exécution d’un programme et qui interrompt son flux normal. Les exceptions peuvent être causées par divers facteurs, tels que des erreurs de logique, des ressources manquantes ou des conditions imprévues.
 >
@@ -24,7 +24,7 @@ try {
 ```
 
 
-> Les exeption sont gérées en JAVA grâces aux blocs : 
+> Les exeptions sont gérées en JAVA grâces aux blocs : 
  
  ``` 
  try {
@@ -33,3 +33,17 @@ try {
  
  }  
  ```
+
+
+> Pour générer une exception, il suffit d'utiliser le mot clé throw, suivi d'un objet dont la classe dérive de **Throwable**. Si l'on veut générer une exception dans une méthode avec throw, il faut l'indiquer dans la déclaration de la méthode, en utilisant le mot clé **throws**.
+
+```
+public class SaisieErroneeException extends Exception {
+	public SaisieErroneeException() {
+		super();
+	}
+	public SaisieErroneeException(String `s`) {
+		super(s);
+	}
+}
+```
