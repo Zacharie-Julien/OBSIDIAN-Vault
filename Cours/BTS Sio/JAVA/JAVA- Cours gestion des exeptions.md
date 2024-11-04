@@ -47,3 +47,41 @@ public class SaisieErroneeException extends Exception {
 	}
 }
 ```
+
+
+> Pour utiliser cette exeption nouvellement crée, ont procède de la sorte :
+
+```
+public class TestSaisieErroneeException {
+	public static void controle(String chaine) throws
+	SaisieErroneeException {
+		if (chaine.equals("") == true)
+			throw new SaisieErroneeException("Saisie erronee : chaine
+			vide");
+		}
+
+public static void main(java.lang.String[] args) {
+	String chaine1 = "bonjour";
+	String chaine2 = "";
+	try {
+		controle(chaine1);
+	} catch (SaisieErroneeException e) {
+		System.out.println("Chaine1 saisie erronee");
+	}
+	try {
+		controle(chaine2);
+	} catch (SaisieErroneeException e) {
+		System.out.println("Chaine2 saisie erronee");
+	}
+}
+```
+
+### printStackTrace() :
+---
+>La méthode printStackTrace() en Java est utilisée pour afficher la pile d’appels (stack trace) d’une exception ou d’une erreur dans la console. C’est une méthode disponible dans la classe de base des exceptions, Throwable, que toutes les exceptions et erreurs héritent en Java.
+>
+
+### getMessage() :
+---
+> La méthode .getMessage(), permet de renvoyer le message d'erreur renvoyer lors de la capture d'une exeption.
+> 

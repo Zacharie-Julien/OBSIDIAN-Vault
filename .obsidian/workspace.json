@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/BTS Sio/JAVA/JAVA- Cours gestion des exeptions.md",
+                "file": "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Cours WildFly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JAVA- Cours gestion des exeptions"
+              "title": "J2EE- Cours WildFly"
             }
           }
         ]
@@ -175,8 +175,9 @@
   },
   "active": "0b7523ee8b40de68",
   "lastOpenFiles": [
-    "Cours/BTS Sio/JAVA/JAVA- Cours POO.md",
     "Cours/BTS Sio/JAVA/JAVA- Cours gestion des exeptions.md",
+    "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Cours WildFly.md",
+    "Cours/BTS Sio/JAVA/JAVA- Cours POO.md",
     "Cours/BTS Sio/_Sommaire.md",
     "Cours/BTS Sio/BDD/MCD- Cours Modèles Concpetuel de Données.md",
     "Cours/BTS Sio/BDD/MCD- Cours formes normales.md",
