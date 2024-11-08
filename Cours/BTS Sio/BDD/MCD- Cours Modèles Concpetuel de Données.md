@@ -16,7 +16,6 @@
 
 
 
-
 >Une BDD est un ensemble d’informations stocké sur un système informatique. Cet ensemble est implanté physiquement (généralement sur disque dur) sous la forme d’un ou plusieurs fichiers. Cette organisation est assurée par un logiciel spécialisé : le SGBD (Système de Gestion de Base de Données).
 
 
@@ -29,7 +28,7 @@
 > 
 ### Clé primaire : 
 ---
-> La clé primaire est un attribut qui permet de distinguer chaque occurrence d’une relation par rapport à tous les autres. Toutes les valeurs de cet attribut doivent être uniques.
+> La clé primaire est un attribut qui permet de distinguer chaque occurrence d’une relation par rapport à tous les autres. Toutes les valeurs de cet attribut doivent être uniques et atomiques.
 > 
 ### Clé étrangère : 
 ---
@@ -56,7 +55,6 @@
 ---
 > C'est une propriété obligatoire dans chaque entité, qui permet d'identifier sans ambiguïté, de façon unique, et biunivoque chaque occurrence de l'entité.
 > 
-
 
 
 >En MCD, **l’héritage** représente une relation entre une **entité mère** et une ou plusieurs **entités filles**, qui héritent des **[[#Attribut]]** et des **[[#Association]]** de l’entité mère. Cela permet de modéliser une hiérarchie de concepts où les entités filles partagent des caractéristiques communes tout en ajoutant leurs propres spécificités. 
