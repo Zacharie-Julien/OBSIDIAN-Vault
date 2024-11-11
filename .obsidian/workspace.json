@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/BTS Sio/CEJM/Thème 4/La protection des personnes et des données.md",
+                "file": "Cours/BTS Sio/Gestion de Projet/B1_Gestion de projet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La protection des personnes et des données"
+              "title": "B1_Gestion de projet"
             }
           }
         ]
@@ -175,17 +175,21 @@
   },
   "active": "61149b1ea6709bda",
   "lastOpenFiles": [
+    "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Cours WildFly.md",
+    "Cours/BTS Sio/Gestion de Projet/B1_Gestion de projet.md",
+    "Cours/BTS Sio/Gestion de Projet",
+    "Cours/BTS Sio/Sans titre.md",
+    "Cours/BTS Sio/Cybersecurite",
+    "Cours/BTS Sio/CEJM/Thème 4/La protection des personnes et des données.md",
     "Cours/BTS Sio/CEJM/Thème 4/Les conséquences du déploiement du numérique dans les entreprises.md",
     "Cours/BTS Sio/CEJM/Thème 4/Les conséquences du numérique dans l'entreprise.md",
     "Cours/BTS Sio/CEJM/Thème 4/Le rôle du système d'information dans l'entreprise.md",
     "Cours/BTS Sio/CEJM/Thème 4/L'impact du numérique sur les modes de consommation et de production.md",
     "Cours/BTS Sio/CEJM/Thème 4/L'impact du numérique sur les relations d'échange de l'entreprise.md",
     "Cours/BTS Sio/CEJM/Thème 4/Définitions.md",
-    "Cours/BTS Sio/CEJM/Thème 4/La protection des personnes et des données.md",
     "Cours/BTS Sio/CEJM/Thème 4/Les actifs immatériels immatériels de l'entreprise.md",
     "Cours/BTS Sio/CEJM/Thème 4/Sans titre.canvas",
     "Cours/BTS Sio/CEJM/Thème 4/La preuve est les contacts numériques.md",
-    "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Cours WildFly.md",
     "Cours/BTS Sio/CEJM/Thème 4",
     "Cours/BTS Sio/CEJM",
     "Cours/BTS Sio/BDD/MCD- Cours Modèles Concpetuel de Données.md",
@@ -203,8 +207,6 @@
     "Cours/Sans titre.md",
     "Cours/BTS Sio",
     "Cours",
-    "Planning",
-    "Modeles",
-    "Test"
+    "Planning"
   ]
 }
