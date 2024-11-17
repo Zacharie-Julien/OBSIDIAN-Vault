@@ -128,3 +128,63 @@ private OtherEntity otherEntity;
 )
 private Set<Role> roles;
 ```
+
+
+### ***4-  Annotations avancées :
+
+#### @Embedded et @Embeddable :
+> Pour des objets intégrables (par exemple, une adresse en tant qu’objet dans une entité principale).
+
+```
+#A declarer une fois l'entite declare/annote
+
+@Embeddable
+public class Address {
+    private String street;
+    private String city;
+}
+```
+
+#### @JoinColumn :
+> Définit la clé étrangère pour les relations (ex. : @ManyToOne, @OneToOne).
+
+```
+#A declarer une fois l'entite declare/annote
+
+@JoinColumn(name = "foreign_key", referencedColumnName = "foreign_key")
+```
+
+#### @JoinTable :
+> Utilisée pour définir une table de jointure dans les relations @ManyToMany.
+
+```
+#A declarer une fois l'entite declare/annote
+
+@JoinTable(
+    name = "relation_table",
+    joinColumns = @JoinColumn(name = "entity1_id"),
+    inverseJoinColumns = @JoinColumn(name = "entity2_id")\
+)
+```
+
+#### @Access :
+> Spécifie le type d’accès aux champs ou getters (FIELD ou PROPERTY).
+
+```
+#A declarer une fois l'entite declare/annote
+
+@Access(AccessType.FIELD)
+```
+
+
+### ***5-  Annotations pour les relations :
+
+#### @Fetch  (optionnel) :
+> Définit la stratégie de chargement (EAGER ou LAZY).
+
+```
+#A declarer une fois l'entite declare/annote
+
+@OneToMany(fetch = FetchType.LAZY)
+private List<Item> items;
+```
