@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61149b1ea6709bda",
+            "id": "50557f5b259958b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/BTS Sio/BDD/SQL/SQL- GRANT.md",
+                "file": "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- Gestion GRANT REVOKE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL- GRANT"
+              "title": "SQL- Gestion GRANT REVOKE"
             }
           }
         ]
@@ -173,14 +173,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61149b1ea6709bda",
+  "active": "50557f5b259958b4",
   "lastOpenFiles": [
+    "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- GRANT.md",
+    "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- Gestion GRANT REVOKE.md",
+    "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- REVOKE.md",
+    "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits",
     "Cours/BTS Sio/JAVA/JAVA- Cours gestion des exeptions.md",
     "Cours/BTS Sio/JAVA/JAVA- Cours POO.md",
-    "Cours/BTS Sio/BDD/SQL/SQL- GRANT.md",
     "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Cours WildFly.md",
     "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Cours Mapping.md",
-    "Cours/BTS Sio/BDD/SQL/SQL- REVOKE.md",
     "Cours/BTS Sio/BDD/SQL",
     "Cours/BTS Sio/BDD/MCD",
     "Cours/BTS Sio/Gestion de Projet/B1_Gestion de projet.md",
@@ -209,7 +211,6 @@
     "Cours/BTS Sio/BDD",
     "Cours/BTS Sio/JAVA",
     "README.md",
-    "Cours/Sans titre.md",
-    "Cours/BTS Sio"
+    "Cours/Sans titre.md"
   ]
 }

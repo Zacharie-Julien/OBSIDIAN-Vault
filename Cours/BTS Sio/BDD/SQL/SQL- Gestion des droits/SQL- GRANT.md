@@ -22,7 +22,6 @@ GRANT <privilèges> ON <objet> TO '<utilisateur>'@'<hôte>' [IDENTIFIED BY '<mot
 	• ma_base.ma_table : Une table spécifique.
 ---
 > **utilisateur** **:** Le nom de l’utilisateur MySQL.
-> 
 ---
    **hôte** **:** L’adresse IP ou le domaine depuis lequel l’utilisateur se connecte (souvent localhost).
 
@@ -38,7 +37,7 @@ GRANT SELECT ON ma_base.* TO 'user1'@'localhost';
 >**Donner tous les privilèges sur une table spécifique :**
 
 ```
-GRANT ALL PRIVILEGES ON ma_base.ma_table TO 'user2'@'%';
+GRANT ALL PRIVILEGES ON ma_base.ma_table TO 'user2'@'localhost';
 ```
 
 >**Créer un nouvel utilisateur avec un mot de passe et des droits spécifiques :**
