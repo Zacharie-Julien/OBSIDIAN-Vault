@@ -5,6 +5,7 @@
 > **L’encapsulation** des services métiers : Service personnalisé pour le client, qui peut être adapté pour le client
 > **Maintenabilité** : Faire en sorte que l’objet soit étanche, qu’il ne dépende pas d’autre chose, que ça explose et que ça se voit.
 > 
+
 ### Inconvénients POO :
 ---
 > **Verbosité** : Beaucoup de code

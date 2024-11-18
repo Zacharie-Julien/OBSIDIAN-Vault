@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Cours Mapping.md",
+                "file": "Cours/BTS Sio/BDD/SQL/SQL- GRANT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "J2EE- Cours Mapping"
+              "title": "SQL- GRANT"
             }
           }
         ]
@@ -175,10 +175,14 @@
   },
   "active": "61149b1ea6709bda",
   "lastOpenFiles": [
+    "Cours/BTS Sio/JAVA/JAVA- Cours gestion des exeptions.md",
+    "Cours/BTS Sio/JAVA/JAVA- Cours POO.md",
+    "Cours/BTS Sio/BDD/SQL/SQL- GRANT.md",
     "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Cours WildFly.md",
     "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Cours Mapping.md",
-    "Cours/BTS Sio/JAVA/JAVA- Cours POO.md",
-    "Cours/BTS Sio/JAVA/JAVA- Cours gestion des exeptions.md",
+    "Cours/BTS Sio/BDD/SQL/SQL- REVOKE.md",
+    "Cours/BTS Sio/BDD/SQL",
+    "Cours/BTS Sio/BDD/MCD",
     "Cours/BTS Sio/Gestion de Projet/B1_Gestion de projet.md",
     "Cours/BTS Sio/Gestion de Projet",
     "Cours/BTS Sio/Sans titre.md",
@@ -195,8 +199,8 @@
     "Cours/BTS Sio/CEJM/Thème 4/La preuve est les contacts numériques.md",
     "Cours/BTS Sio/CEJM/Thème 4",
     "Cours/BTS Sio/CEJM",
-    "Cours/BTS Sio/BDD/MCD- Cours Modèles Concpetuel de Données.md",
-    "Cours/BTS Sio/BDD/MCD- Cours formes normales.md",
+    "Cours/BTS Sio/BDD/MCD/MCD- Cours Modèles Concpetuel de Données.md",
+    "Cours/BTS Sio/BDD/MCD/MCD- Cours formes normales.md",
     "Cours/BTS Sio/_Sommaire.md",
     "Cours/BTS Sio/JAVA/Sans titre.canvas",
     "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition",
@@ -206,8 +210,6 @@
     "Cours/BTS Sio/JAVA",
     "README.md",
     "Cours/Sans titre.md",
-    "Cours/BTS Sio",
-    "Cours",
-    "Planning"
+    "Cours/BTS Sio"
   ]
 }
