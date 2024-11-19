@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- Gestion GRANT REVOKE.md",
+                "file": "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- REVOKE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL- Gestion GRANT REVOKE"
+              "title": "SQL- REVOKE"
             }
           }
         ]
