@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- PROCEDURE.md",
+                "file": "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Outils.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL- PROCEDURE"
+              "title": "J2EE- Outils"
             }
           }
         ]
@@ -175,12 +175,13 @@
   },
   "active": "249932f3acfb3e9f",
   "lastOpenFiles": [
+    "Cours/BTS Sio/JAVA/JAVA- Cours gestion des exeptions.md",
+    "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Outils.md",
+    "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- PROCEDURE.md",
     "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- Gestion GRANT REVOKE.md",
     "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- GRANT.md",
-    "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- PROCEDURE.md",
     "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits/SQL- REVOKE.md",
     "Cours/BTS Sio/BDD/SQL/SQL- Gestion des droits",
-    "Cours/BTS Sio/JAVA/JAVA- Cours gestion des exeptions.md",
     "Cours/BTS Sio/JAVA/JAVA- Cours POO.md",
     "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Cours WildFly.md",
     "Cours/BTS Sio/JAVA/J2EE- Java Enterprise Edition/J2EE- Cours Mapping.md",
@@ -211,7 +212,6 @@
     "^entités.md",
     "Cours/BTS Sio/BDD",
     "Cours/BTS Sio/JAVA",
-    "README.md",
-    "Cours/Sans titre.md"
+    "README.md"
   ]
 }
