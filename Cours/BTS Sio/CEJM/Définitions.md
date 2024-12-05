@@ -63,11 +63,32 @@ Ces droits incluent deux aspects majeurs :
 ---
 >  Pouvoirs d'attraction où la valeur d'un produit, d'un service ou d'une plateforme grandit avec le nombre d'utilisateurs.
 
-###  Externalisation :
+### Externalisation :
 
 ---
 >  Stratégie qui consiste à confier à un partenaire une activité non stratégiques.
 
+### Freenium :
 
+---
+>  Stratégie commerciale associant une offre "prenium" haut de gamme et payante à une offre basique, en libre accès.
 
+### Information :
 
+---
+> Données analysés mises en relation avec d'autres.
+
+### Logiciel :
+
+---
+> Ensemble des programmes et des procédures nécessaires au fonctionnement d'un système informatique.
+
+### Pure player :
+
+---
+> Entreprise qui ne possède pas de point de vente physique, et dont tout l'activité commerciale se passe en ligne.
+
+### Système d'information :
+
+---
+> Ensemble organisé de ressources permettant d'acquérir, de traiter, de stocker, de communiquer des informations dans les organisations.  
