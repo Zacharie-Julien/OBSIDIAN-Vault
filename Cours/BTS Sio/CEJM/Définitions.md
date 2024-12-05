@@ -19,3 +19,55 @@ Ces droits incluent deux aspects majeurs :
 > 2. **Le droit de disposition** : Le titulaire a la possibilité de céder ou vendre le bien ou les droits qui y sont attachés, de manière temporaire ou définitive, selon les conditions légales et contractuelles en vigueur. Cela signifie que le bien ou l’œuvre peut être échangé ou transmis à d’autres personnes.
 >
 >Les droits patrimoniaux jouent un rôle central dans l’économie, car ils influencent la manière dont les biens sont échangés et valorisés. Ils permettent également d’assurer une certaine sécurité juridique et économique aux détenteurs de biens en reconnaissant et en protégeant leurs intérêts financiers.
+
+### Dématérialisation :
+
+---
+> Fait de transférer les données d'un support matériel à un support numérique.
+
+
+### **Désintermédiation**:
+
+---
+> Diminution du rôle des intermédiaires au profit des transaction directes entre clients et fournisseurs, entre investisseurs et débiteurs.
+
+
+### **Digitalisation**:
+
+---
+> Intégration des technologies numériques portables dans le but d'optimiser les processus et d'améliorer les performances des entreprises.
+
+### **Donnée à caractère personnel**:
+
+---
+> Toute information relative à une personne physique identifié ou qui peut être identifiée, directement ou indirectement. 
+
+### **Droit de rétraction :
+
+---
+> Droit du consommateur de revenir sur son consentement pendant une certaine durée.
+
+### **Droit d'auteur  :
+
+---
+>  Ensembles des droits (patrimoniaux et moraux) détenus par un auteur sur son oeuvre de l'esprit. Pour être appliqué l'oeuvre en question doit avoirs un caractère unique et personnel.
+
+### Economie collaborative :
+
+---
+>  Forme d'échange basée sur le partage et la collaboration.
+
+
+### Effet de réseau :
+
+---
+>  Pouvoirs d'attraction où la valeur d'un produit, d'un service ou d'une plateforme grandit avec le nombre d'utilisateurs.
+
+###  Externalisation :
+
+---
+>  Stratégie qui consiste à confier à un partenaire une activité non stratégiques.
+
+
+
+

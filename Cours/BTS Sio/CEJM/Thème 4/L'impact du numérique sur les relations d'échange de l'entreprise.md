@@ -28,3 +28,6 @@
    
 >• **Relations dématérialisées** avec des partenaires administratifs et financiers :      
 > Les échanges avec l’administration et les banques sont simplifiés grâce au numérique, avec des gains de productivité et de sécurité dans les transactions.
+ 
+>• **Évolutions sectorielles**
+>Émergent de nouveaux secteurs d’activité.
