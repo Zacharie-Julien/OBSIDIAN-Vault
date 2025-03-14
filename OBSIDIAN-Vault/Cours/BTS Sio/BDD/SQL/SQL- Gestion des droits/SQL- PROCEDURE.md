@@ -98,13 +98,14 @@ Bloc boucle :
 
 Curseur :
 	DECLARE mon_cur CURSOR
-		FOR la requetes 
+		FOR la requetes ;
 			DECLARE les_valeur renvoyé par la requetes
 			OPEN mon_cur;
 				DECLARE OVER int DEFAULT 0;
 				DECLARE CONTINUE HANDLER FOR NOT FOUND SET over = 1;
 				WHILE over != 1 DO
 					FETCH mar_cur INTO v1, v2, v3;
+					code_courant
 				END WHILE;
 				CLOSE mon_cur;
 
